@@ -1,0 +1,4 @@
+transformers==4.30.2
+gradio==3.40.1
+pandas==2.0.3
+torch==2.0.1 
